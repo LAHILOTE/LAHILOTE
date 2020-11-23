@@ -4,7 +4,7 @@ I am a Network Engineer with experience in MikroTik.
 I love mobile apps, distributed systems, open source projects and the challenges associated with them.
 I like writing,sharing my knowledge with other engineers.
 
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<img align='right' src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150"  />
 
 - 🔭 I’m currently working on Badan Keuangan Kota Gorontalo
 - 🌱 I’m currently learning **Flutter**
