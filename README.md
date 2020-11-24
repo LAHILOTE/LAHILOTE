@@ -9,7 +9,7 @@ I like writing,sharing my knowledge with other engineers.
 
 <img align='right' src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150"  />
 
-- 🔭 I’m currently working on Badan Keuangan Kota Gorontalo
+- 🔭 I’m currently working on **Badan Keuangan Kota Gorontalo**
 - 🌱 I’m currently learning **Flutter**
 <!--
 - 👯 I’m looking to collaborate on ...
