@@ -10,12 +10,12 @@ I like writing,sharing my knowledge with other engineers.
 <img align='right' src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150"  />
 
 - 🔭 I’m currently working on **Badan Keuangan Kota Gorontalo**
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Laravel**
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
-- 💬 Ask me about **MikroTik**
+- 💬 Ask me about **Anything**
 - 📫 How to reach me: <br /><br />
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/machmud-domili-18bb2916b)
 [![Website Badge](https://img.shields.io/badge/Github-3b5998?style=flat-square&logo=git&logoColor=white)](https://LAHILOTE.github.io/)
@@ -30,7 +30,7 @@ I like writing,sharing my knowledge with other engineers.
 
 ### Languages and Tools:
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>   <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-ar21.svg" alt="mysql" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
+<p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/laravel/laravel-ar21.svg" alt="laravel" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>   <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-ar21.svg" alt="mysql" width="50" height="50"/> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/postgresql/postgresql-ar21.svg" alt="postgresql" width="50" height="50"/> 
 
 <br />
 
