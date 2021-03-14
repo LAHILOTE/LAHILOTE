@@ -30,7 +30,7 @@ I like writing,sharing my knowledge with other engineers.
 
 ### Languages and Tools:
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/laravel/laravel-ar21.svg" alt="laravel" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="50" height="50"/> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/postgresql/postgresql-ar21.svg" alt="postgresql" width="50" height="50"/> 
+<p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/laravel/laravel-ar21.svg" alt="laravel" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="50" height="50"/> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/postgresql/postgresql-ar21.svg" alt="postgresql" width="50" height="50"/> 
 
 <br />
 
