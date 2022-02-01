@@ -11,11 +11,6 @@ I like writing,sharing my knowledge with other engineers.
 
 - 🔭 I’m currently working on **Badan Keuangan Kota Gorontalo**
 - 🌱 I’m currently learning **TALL Stack**
-- TALL Stack Stand For
-- T - Tailwind CSS <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/>
-- A - Alpine JS <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="50" height="50"/>
-- L - Livewire JS <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="50" height="50"/>
-- L - Laravel Framework <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="50" height="50"/>
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -29,14 +24,13 @@ I like writing,sharing my knowledge with other engineers.
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mudher.domili/)
 <!--
 - 😄 Pronouns: ...
--->
 - ⚡ Fun fact: **I love to play Badminton**
-
+-->
 <br />
 
 ### Languages and Tools:
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="50" height="50"/> 
+<p align="left"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="50" height="50"/> 
 
 <br />
 
