@@ -10,7 +10,13 @@ I like writing,sharing my knowledge with other engineers.
 <img align='right' src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150"  />
 
 - 🔭 I’m currently working on **Badan Keuangan Kota Gorontalo**
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **TALL Stack**
+- TALL Stack Stand For
+- T - Tailwind CSS <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/>
+- A - Alpine JS <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="50" height="50"/>
+- L - Livewire JS <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="50" height="50"/>
+- L - Laravel Framework <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="50" height="50"/>
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
