@@ -35,4 +35,4 @@ I like writing,sharing my knowledge with other engineers.
 <br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAHILOTE&layout=compact&hide=html" alt="LAHILOTE" /></p>
-<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAHILOTE&show_icons=true&theme=transparent)</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAHILOTE)](https://github.com/anuraghazra/github-readme-stats)
