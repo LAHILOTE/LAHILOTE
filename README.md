@@ -33,9 +33,9 @@ I like writing,sharing my knowledge with other engineers.
 <p align="left"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="50" height="50"/> 
 
 <br />
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LAHILOTE&show_icons=true&count_private=true&theme=gradient&layout=compact" alt="LAHILOTE" />
-<br />
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LAHILOTE&show_icons=true&count_private=true&theme=tokyonight&layout=compact" alt="LAHILOTE" /></p>
+<p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LAHILOTE&show_icons=true&count_private=true&theme=gradient&layout=compact" alt="LAHILOTE" />
+<br /><br />
+<img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LAHILOTE&show_icons=true&count_private=true&theme=tokyonight&layout=compact" alt="LAHILOTE" /></p>
 
 
 
